@@ -20,5 +20,16 @@
 .buy-btn:hover{
     background-color: rgba(14, 29, 233, 0.774);
 }
+.icon{
+    font-size: 25px;
+    margin: 10px;
+    cursor: pointer;
+}
+.fa-facebook{
+    color: rgb(5, 103, 216);
+}
+.fa-instagram{
+    color: #C435A7;
+}
 
     

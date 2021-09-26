@@ -10,7 +10,6 @@ const Mycart = (props) => {
         total = total + cattle.price
     }
 
-
     return (
         <div>
             <div className="cattle-cart">
@@ -19,7 +18,6 @@ const Mycart = (props) => {
                 <h5>Name:{name}</h5>
                 <h5>Price: {price}</h5>
                 <h5>Total Price: {total}</h5>
-
             </div>
         </div>
     );

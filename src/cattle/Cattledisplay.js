@@ -29,7 +29,6 @@ const CattleCart = () => {
                         cattle={cattle}
                     ></Cattleinfo>)
                 }
-
             </div>
         </div>
     );
