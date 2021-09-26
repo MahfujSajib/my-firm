@@ -1,10 +1,11 @@
 import React from 'react';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faInstagram, fafacebook } from '@fortawesome/free-solid-svg-icons'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faLocationArrow } from '@fortawesome/free-solid-svg-icons';
 import './Cattleinfo.css'
 
 const Cattleinfo = (props) => {
     const { name, id, img, weight, price } = props.cattle;
+    const cartIcon = <FontAwesomeIcon icon={faLocationArrow} />
     return (
         <div className="grid-container">
             <div className="container">
@@ -14,13 +15,12 @@ const Cattleinfo = (props) => {
                 <h5>Weight: {weight}</h5>
                 <h4>Price: {price}</h4>
                 <button onClick={() => props.handleCart(props.cattle)} className="buy-btn">Buy Now</button>
-                <p>Follow us on:
+                <p>Our Location:
                     <br />
-                    <i class="fab fa-facebook icon"></i>
-                    <i class="fab fa-instagram icon"></i>
+                    <a className="icon" href="https://bengalmeat.com/" target="_blank">{cartIcon}</a>
                 </p>
             </div>
-        </div>
+        </div >
     );
 };
 

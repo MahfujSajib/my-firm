@@ -24,12 +24,8 @@
     font-size: 25px;
     margin: 10px;
     cursor: pointer;
+    color: rgb(0, 26, 255);
 }
-.fa-facebook{
-    color: rgb(5, 103, 216);
-}
-.fa-instagram{
-    color: #C435A7;
-}
+
 
     
