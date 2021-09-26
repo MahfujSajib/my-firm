@@ -1,0 +1,65 @@
+[
+    {
+        "name": "lali",
+        "weight": "100kg",
+        "price": 50000,
+        "img": "https://www.clickbd.com/global/classified/item_img/801213_0_original.jpg",
+        "id": 101
+    },
+    {
+        "name": "kalu",
+        "weight": "120kg",
+        "price": 70000,
+        "img": "https://i.ytimg.com/vi/KLITPOyEt_4/maxresdefault.jpg",
+        "id": 102
+    },
+    {
+        "name": "raja",
+        "weight": "130kg",
+        "price": 100000,
+        "img": "https://i.playboard.app/p/AAUvwni9uGQaDuoDQ6bgUqjCx07uQitDC6eZjEF5w_jCFuQ/default.jpg",
+        "id": 103
+    },
+    {
+        "name": "Pagla",
+        "weight": "115kg",
+        "price": 80000,
+        "img": "https://anondomela.shop/wp-content/uploads/2021/07/sabaah-13-raja-2.jpg",
+        "id": 104
+    },
+    {
+        "name": "Taibu",
+        "weight": "122kg",
+        "price": 85000,
+        "img": "https://anondomela.shop/wp-content/uploads/2021/07/sabaah-13-raja-2.jpg",
+        "id": 105
+    },
+    {
+        "name": "borolok",
+        "weight": "117kg",
+        "price": 95000,
+        "img": "https://anondomela.shop/wp-content/uploads/2021/07/sabaah-13-raja-2.jpg",
+        "id": 106
+    },
+    {
+        "name": "Tempu",
+        "weight": "140kg",
+        "price": 120000,
+        "img": "https://anondomela.shop/wp-content/uploads/2021/07/sabaah-13-raja-2.jpg",
+        "id": 107
+    },
+    {
+        "name": "kashu",
+        "weight": "130kg",
+        "price": 100000,
+        "img": "https://anondomela.shop/wp-content/uploads/2021/07/sabaah-13-raja-2.jpg",
+        "id": 108
+    },
+    {
+        "name": "lala",
+        "weight": "105kg",
+        "price": 83000,
+        "img": "https://anondomela.shop/wp-content/uploads/2021/07/sabaah-13-raja-2.jpg",
+        "id": 109
+    }
+]
