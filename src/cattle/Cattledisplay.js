@@ -19,7 +19,7 @@ const CattleCart = () => {
     return (
         <div className="cattle-container">
             <div className="display-cart">
-                <Mycart Cart={Cart}></Mycart>
+                <Mycart Mycart={Cart}></Mycart>
             </div>
             <div className="display-cattle">
                 {
